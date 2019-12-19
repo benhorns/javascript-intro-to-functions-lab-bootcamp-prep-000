@@ -22,10 +22,10 @@ function sayHiToGrandma(string){
   return "I can't hear you!"
 
 } else if (string === "HELLO"){
-  console.log("YES INDEED!")
+  return "YES INDEED!"
 
 } else if (string === "I love you, Grandma."){
-  console.log("I love you, too.")
+  return "I love you, too."
 } else {}
 
 }
